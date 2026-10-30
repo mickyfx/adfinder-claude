@@ -20,5 +20,6 @@
   "supportUrl": "https://adfinder.app/plugin-support.html",
   "privacyPolicyUrl": "https://adfinder.app/plugin-privacy.html",
   "termsOfServiceUrl": "https://adfinder.app/legal/plugin-terms-v1.html",
-  "license": "LicenseRef-Storez-Proprietary"
+  "license": "LicenseRef-Storez-Proprietary",
+  "repository": "https://github.com/mickyfx/adfinder-claude"
 }
