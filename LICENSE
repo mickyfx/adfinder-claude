@@ -1,0 +1,33 @@
+# AdFinder plugin proprietary license
+
+Storez LLC — package text approved 26 October 2026.
+
+### 1. Covered materials
+
+“Plugin Materials” means the AdFinder plugin package that Storez LLC authorizes for distribution, including its manifests, MCP connection configuration, Skills, packaged documentation and brand assets, except material identified as subject to a separate third-party license.
+
+This license does **not** cover or disclose the private AdFinder server, mobile application, their source repositories, development tools or other materials outside the distributed plugin package. It does not grant access to those private materials.
+
+### 2. Limited permission
+
+Subject to compliance with this license and the approved AdFinder product terms applicable to your account and plugin use, Storez LLC grants you a limited, non-exclusive permission to download, install and use the distributed Plugin Materials with your authorized AdFinder account in a compatible assistant host for the plugin's intended functions. This includes copies technically necessary for that permitted installation and operation.
+
+You may use those intended functions for lawful personal or professional research permitted by the applicable product terms and account permissions. This permission does not itself grant service credits, a subscription, additional account access or rights to bypass authorization, usage limits or research budgets.
+
+### 3. Retained rights and permitted distribution
+
+The Plugin Materials are licensed, not sold. Storez LLC and the applicable rights holders retain their intellectual-property rights. No ownership is transferred. Rights not expressly granted remain reserved.
+
+Except for copies permitted by section 2, a separate written authorization, an applicable third-party license or rights that applicable law does not permit this license to restrict, you may not redistribute, resell, sublicense or publish the Plugin Materials or modified versions of them. Do not remove ownership or license notices. The included names, logos and icons may be displayed as part of permitted plugin operation; this license does not authorize unrelated branding, endorsement claims or trademark use.
+
+### 4. Third-party materials and retrieved data
+
+Any third-party component expressly supplied under its own license remains governed by that license; this proprietary license does not replace or narrow those separate permissions. Preserve applicable third-party notices.
+
+Ads, posts, images, videos, transcripts, platform marks and other material returned by AdFinder or a data provider are **not Plugin Materials**. This license neither grants nor removes separate rights in that material. Any rights supplied by a provider or content owner arise under the relevant separate terms or permissions. Public availability or display in a chat does not itself establish permission to reuse or republish the material. User-supplied content is not assigned to Storez LLC by this license.
+
+### 5. Service and host terms remain separate
+
+Using the plugin to access AdFinder remains subject to the approved product terms applicable to that use, including account authorization and service entitlements. The assistant host's applicable terms remain separate. This package license does not establish new prices, billing terms, support commitments, availability guarantees or rights to future features. It does not authorize supplier administration or grant an underlying provider API key.
+
+Nothing in this license excludes rights that applicable law does not allow to be excluded. No new governing law, court, arbitration procedure, warranty disclaimer, liability cap or termination remedy is selected by this license.

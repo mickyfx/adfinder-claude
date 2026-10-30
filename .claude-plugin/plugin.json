@@ -1,0 +1,24 @@
+{
+  "name": "adfinder",
+  "displayName": "AdFinder: Competitor Ads",
+  "version": "0.6.1",
+  "description": "Find competitor ads in Meta, TikTok, Google and LinkedIn ad libraries. Research public posts on X/Twitter and Reddit, compare creative ideas, and explore profiles and available transcripts.",
+  "author": {
+    "name": "Storez LLC",
+    "email": "michael@storez.me",
+    "url": "https://adfinder.app"
+  },
+  "homepage": "https://adfinder.app",
+  "keywords": [
+    "advertising",
+    "research",
+    "creative",
+    "competitors"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://adfinder.app",
+  "supportUrl": "https://adfinder.app/plugin-support.html",
+  "privacyPolicyUrl": "https://adfinder.app/plugin-privacy.html",
+  "termsOfServiceUrl": "https://adfinder.app/legal/plugin-terms-v1.html",
+  "license": "LicenseRef-Storez-Proprietary"
+}

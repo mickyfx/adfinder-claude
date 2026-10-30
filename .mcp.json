@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "adfinder": {
+      "type": "http",
+      "url": "https://adfinder.app/gateway/mcp",
+      "oauth": {
+        "scopes": "adfinder:read adfinder:research"
+      }
+    }
+  }
+}
